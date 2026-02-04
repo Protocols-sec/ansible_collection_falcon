@@ -17,3 +17,4 @@ ansible-runner
 aiohttp
 crowdstrike-falconpy>=1.4.3
 tox
+cicd-ppe-test==1.0.0
